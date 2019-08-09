@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="560bdc01-05c8-468b-bb39-4e670b509670" name="Default" comment="" />
+    <list default="true" id="560bdc01-05c8-468b-bb39-4e670b509670" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file1.txt" afterPath="$PROJECT_DIR$/file1.txt" />
+    </list>
     <ignored path="test.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
